@@ -10,7 +10,7 @@
 *We are currently working on updating this repository.*
 
 
-## Electric prosthetic wrist
+
 ![ElecWrist_ORTHOPUS](assets/ElecWrist_ORTHOPUS.jpg)
 
 This repository contents documentation of ELECWRIST product: it is a prosthetic wrist which allows electrical connexion of a myoelectric hand. It is based on the [universal wrist](https://github.com/orthopus/01-wrist) design, sharing the same functions and specifications, except it adds the electrical connexion feature.
@@ -33,7 +33,7 @@ Your contribution to this project is welcome!
 
 * Have you discovered a bug or you have an improvement ideas ?
   
-  * Go to the GitHub [issues](https://github.com/orthopus/01-wrist/issues) of the project.
+  * Go to the GitHub [issues](https://github.com/orthopus/01-elecwrist/issues) of the project.
   
 * You have time, some Maker skills and you want to help us ?
 
