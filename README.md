@@ -15,6 +15,8 @@
 
 This repository contents documentation of ELECWRIST product: it is a prosthetic wrist which allows electrical connexion of a myoelectric hand. It is based on the [universal wrist](https://github.com/orthopus/01-wrist) design, sharing the same functions and specifications, except it adds the electrical connexion feature.
 
+The Elecwrist is compatible with any standard ORTHOPUS mechanical tool. WARNING: when using a mechanical tool with Elecwrist, please turn off power supply and remove the battery.
+
 
 
 ## WARNING NOTICE BEFORE STARTING
