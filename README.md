@@ -11,7 +11,9 @@
 
 
 
-![ElecWrist_ORTHOPUS](assets/ElecWrist_ORTHOPUS.jpg)
+![ElecWrist_POGO_ORTHOPUS](assets/ElecWrist_POGO_ORTHOPUS.jpg)
+
+Branch branch_pogo_pin: **Discontinued design** of the Elecwrist, using pogo-pins to make electrical contact. This solution has been successfully tested but abandonned due to its complexity and the higher BOM cost compared with the new solution.
 
 This repository contents documentation of ELECWRIST product: it is a prosthetic wrist which allows electrical connexion of a myoelectric hand. It is based on the [universal wrist](https://github.com/orthopus/01-wrist) design, sharing the same functions and specifications, except it adds the electrical connexion feature.
 
